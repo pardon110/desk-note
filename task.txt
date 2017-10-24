@@ -1,0 +1,50 @@
+
+核心目标：自我管理
+
+次级目标：健康管理，情绪管理，精力管理，目标管理，时间管理。
+
+关注用性基础性原理性问题：
+
+待完成任务，队列测试  在linux环境下进行
+
+晚1点之前睡
+早9点之前床
+日跑5公里，总目标限时2小时，18000步 建议晚：7：30至9：30
+善于使用各种帮助指引，减少走弯路
+
+
+学完实验楼的php免费过程，直接买会员，学完会员再学其它语言
+
+用xdebug进行开源代码阅读
+laravel 微擎 tp 
+PDO类熟悉
+编程是一步严谨的活，每做一步都必须快速验证
+python 学习
+
+
+
+善用工具，运用最先进的方法，刻意练习
+symfony 深研laravel
+了解docker
+积累代码量
+学会写测试用例
+将python作为第二语言，进行深入的学习
+
+
+
+注册csdn学习相关理论
+教训，经常重现的错误，集中解决。！！！
+重要的事情讲三遍。
+
+phpstorm工具使用配置，docker学习,注册csdn,sublimeText,
+
+测试调试是了解代码最好的手段，多练习才会上手快。
+知道在与得到之间，还有两个字做到
+多等会儿，要有耐
+
+
+laravel phpstorm slim think vue.js bootstrap anglury
+
+pimple 	Pimple is a simple PHP Dependency Injection Container   可以用composer安装
+
+自控自律,不要太懒。
