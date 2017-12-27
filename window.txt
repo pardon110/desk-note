@@ -199,12 +199,16 @@ Fn+F8 		扬声器开/关 打开和关闭扬声器。
 
 
 
+########################
+win7快速启动服务
+########################
+services.msc  					
+net start mysql56
+net stop mysql56		开启关闭服务
+net help			查看与网络相关的系统命令
 
 
-
-
-
-
+set DEBUG=true			windows设置环境变量
 
 
 
