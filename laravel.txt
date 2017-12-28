@@ -1,0 +1,43 @@
+多表联合查询
+with		减少数据库请求次数
+whereHas	条件过滤
+
+
+使用Tinker测试邮件发送
+php artisan tinker
+
+
+Laravel 5.1 还提供了以下辅助函数来设置路由：
+
+    delete($uri, $action) 注册一个DELETE路由
+    get($uri, $action) 注册一个GET路由
+    patch($uri, $action) 注册一个PATCH路由
+    post($uri, $action) 注册一个POST路由
+    put($uri, $action) 注册一个PUT路由
+    resource($name, $controller, $options) 注册一个RESTful路由
+
+对路由分组
+Route::group
+$router->group()
+
+
+
+队列驱动
+
+Laravel 为队列提供了的不同实现驱动：
+
+    sync – 当任务被推送到sync队列后会立即执行
+    database – 数据库队列会将任务存放到数据表中，该表默认是jobs
+    beanstalkd – 要实现beanstalkd队列需要先配置并运行beanstalkd，而且还要使用Composer安装依赖包：composer require "pda/pheanstalk=~3.0"
+    sqs – 该驱动会将任务推送到Amazon SQS队列，同样需要先使用Composer安装依赖包：composer require aws/aws-sdk-php
+    iron – 该驱动会将任务推送到IronMQ，使用前需要安装依赖：composer required "iron-io/iron_mq=~1.5"
+    redis – Redis队列会将任务推送到Redis数据库，使用前需要安装redis依赖：composer require "presdis/presis=~1.0"
+
+
+使用 Supervisor 运行 queue:listen
+
+队列 homestead下执行。
+
+
+分享链接
+实现RSS订阅

@@ -1,0 +1,217 @@
+####################
+windows7常用快捷键
+####################
+
+
+Win键相关的快捷键
+---------------------
+Win + Home				关闭是非当前窗口
+Win + Space				窗口透明化
+
+Win +  ↑ / ↓				最大化当前窗口,最小化窗口
+
+Shift + Win +  ↑			最大化当前窗口，宽度不变
+Shift + Win + 左／右方			左/右窗口
+
+Ctrl + Shift + 鼠标点软件 		以管理员权限开启该软件
+
+Win +  (+/-)：　　　　　　 		打开windows放大镜功能
+Win + G 				在屏幕上的Gadget 间切换
+Win + X 				打开移动中心
+Win + D 				全部最小化开关
+Win + E 				打开我的电脑
+Win + F 				打开资源管理器搜索结果
+Win + L 				快速锁定
+Win + M 				最小化当前窗口,不返回
+Win + P 				投影机输出设定（仅屏幕、同步显示、延伸、仅投影机）
+Win + R 				打开运行对话框
+Win + T 				工作列的Alt+Tab
+Win + U 				打开控制面板轻松访问中心
+Win + Break 				打开控制面板系统属性
+Win + Tab 				3D方式切换窗口
+
+win + ctrl + Tab			3D桌面切换并锁定， 按win解锁
+win + 数字键（1-9)			按照任务栏中程序的排序，快速切换程序
+
+
+
+
+
+
+
+
+
+
+
+资源管理器相关快捷键
+---------------------------
+Ctrl + N				 打开新窗口
+ctrl + W 				 关闭当前窗口
+ctrl + shift + N 			 新建文件夹
+home/end				显示文件夹首部/底部
+F11					最大/最小化当前文件夹
+
+ctrl + ./,				顺/逆时针旋转图片
+alt + enter				打开选中项目的属性对话框
+alt + p 				预览面板开关
+
+Alt + ←   |   Alt + →			打开上/下文件夹
+Alt + ↑				返回上一层文件夹
+Alt + D					选中地址栏
+ctrl + e				选中搜索框
+
+
+Shift+右键点选文件
+Shift+右键点选文件夹		
+
+
+
+
+
+
+Windows基础快捷键
+------------------------
+F1					windows相关的帮助信息
+F2					重命名选中项目
+F3					搜索
+F4					显示资源管理器(win+e打开的)的地址列表
+F5 ( Ctrl+R)				刷新
+					
+Delete ( Ctrl+D)			删除选中项目至回收站
+CTRL+Y					恢复上一步操作
+Shift+Delete				直接删除选中项目
+Ctrl+Shift+Esc				打开任务管理器		
+
+Alt+ ↑					资源管理区中返回文件夹的上一级菜单
+
+Ctrl + Z				撤销
+Ctrl + y				恢复
+
+CTRL+F					对当前窗口或当前页面中的内容进行搜索
+ALT+TAB					不同程序间进行切换
+CTRL+TAB				在同一程序内的不同窗口及页面之间进行切换
+
+ALT+F4					快速关闭程序窗口
+CTRL+W					关闭窗口程序中的标签页
+SHIFT+DEL				彻底删除文件，不必清空回收站	
+
+
+
+
+
+
+运行对话框
+-------------------
+win + R					开启运行框
+msconfig				启动系统配置
+
+winver					显示Windows版本信息
+msinfo32				系统信息
+eventvwr				事件查看器
+control system				系统属性
+perfmon					性能监视器
+resmon					资源监视器
+taskmgr					任务管理器
+msra					远程帮助
+cmd					打开命令提示符窗口
+regedt32				更改Windows注册表
+
+
+
+
+
+
+
+
+
+F3					查找下一个
+F5					时间日期
+win+
+alt + enter				全屏
+
+
+
+
+
+CMD 命令(不区分大小写）
+-------------------------------------
+help					命令的帮助信息			
+where					查找命令路径
+cd					显示当目录的名称或将其更改
+cls					清除屏幕
+dir					显示一个目录中的文件和子目录
+echo 					显示消息，或将命令回显打开或关上
+exit					退出命令解释器
+find					搜索
+findstr
+format					格式化磁盘
+mkdir					创建一个目录
+path					为可执行文件显示或设置搜索路径, 即查看系统环境变量
+rename					重新命名文件
+set 					显示，设置或删除windows环境变量
+shutdown				让机器在本地或远程正确关闭
+
+
+netstat -ano 				查看端口
+netstat -aon|findstr "49157"		查看被占用端口对应的PID
+
+
+
+
+右击鼠标使用(详情使用看点击右键出现的字母）
+----------------------
+右选中 +ｄ				删除
+右选中 +ｒ				属性
+右选中空白 + e				刷新当前窗体
+右击文件夹+　ｅ				以新的窗体对象打开资源
+
+右选中 + s				快捷方式
+右选中 +m 				重命名
+右选中 +ｗ				新建
+
+
+
+windows通用键说明
+------------------
+ALT键激活菜单栏 
+Alt + d 				选中地址栏
+Alt + 空格 + C				关闭当前程序或窗口
+Alt + 空格 + X   			最大化当前窗口
+Alt + 空格 + R				还原窗口
+
+
+
+
+
+#############################
+Aspire e1-472G	快捷键
+#############################
+
+Fn+F1 		热键帮助 显示此帮助文件。 
+Fn+F2 		Acer eSettings 启动 Acer eSettings Management。 
+Fn+F3 		Acer ePM 启动 Acer ePower Management. 
+Fn+F4 		休眠 将计算机置于休眠模式，可以通过 Windows 控制面板“电源管理属性”中的高级选项来定义。 
+Fn+F5 		显示切换 在笔记型计算机 LCD、外部显示器和笔记型计算机 LCD 及外部显示器之间切换显示输出。 
+Fn+F6 		白屏 关闭 LCD 背光以节省电源；按任意键恢复。 
+Fn+F7 		触控板开/关 打开和关闭内部触控板。 
+Fn+F8 		扬声器开/关 打开和关闭扬声器。
+
+
+
+
+########################
+win7快速启动服务
+########################
+services.msc  					
+net start mysql56
+net stop mysql56		开启关闭服务
+net help			查看与网络相关的系统命令
+
+
+set DEBUG=true			windows设置环境变量
+
+
+
+
+
+
